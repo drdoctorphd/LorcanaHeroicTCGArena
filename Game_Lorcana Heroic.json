@@ -52,7 +52,9 @@
                   "section": "Inkwell"
                 },
                 {
-                  "section": "Storyboard"
+                  "section": "Storyboard",
+                  "style": {
+                    "width": "45vh"
                 }
               ]
             }
