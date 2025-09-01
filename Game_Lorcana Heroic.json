@@ -52,7 +52,10 @@
                   "section": "Inkwell"
                 },
                 {
-                  "section": "Storyboard"
+                  "section": "Storyboard",
+                  "style": {
+                    "width": "45vh"
+                  }
                 }
               ]
             }
@@ -125,7 +128,7 @@
           },
           "Inkwell": {
             "title": "Inkwell",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "noAutoPayTo": "true",
